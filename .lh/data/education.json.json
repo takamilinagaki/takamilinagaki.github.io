@@ -1,0 +1,22 @@
+{
+    "sourceFile": "data/education.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1676780093192,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1676780334843,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,8 +9,20 @@\n                 {\n                     \"subDepartment\": \"Digital Arts, Media and Design\",\n                     \"study\": [\"Digital Design and Development\", \"Front-End Web Developer\", \"Full-Stack Web Development\"]\n                 }\n+            ],\n+            \"computingIT\": [\n+                {\n+                    \"subDepartment\": \"Computer Application Training\",\n+                    \"study\": [\"App;ied Cpmputer Information Systems (ACIS)\",\n+                              \"Graphic Design\",\n+                              \"Use Interface (UI) and User Experience (UX) Design\"]\n+                },\n+                {\n+                    \"subDepartment\": \"Software Development\",\n+                    \"study\": [\"Applied Data Analytics\", \"Applied Software Development\", \"Applied Web Development\"]\n+                }\n             ]\n         }\n     ]\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1676780093192,
+            "name": "Commit-0",
+            "content": "{\n    \"bcit\": [\n        {\n            \"businessMedia\": [\n                {\n                    \"subDepartment\": \"Accounting, Finance and Insurance\",\n                    \"study\": [\"Accounting\", \"Finance\", \"Human Resourcees\"]\n                },\n                {\n                    \"subDepartment\": \"Digital Arts, Media and Design\",\n                    \"study\": [\"Digital Design and Development\", \"Front-End Web Developer\", \"Full-Stack Web Development\"]\n                }\n            ]\n        }\n    ]\n}"
+        }
+    ]
+}

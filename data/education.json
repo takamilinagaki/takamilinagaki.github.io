@@ -1,0 +1,28 @@
+{
+    "bcit": [
+        {
+            "businessMedia": [
+                {
+                    "subDepartment": "Accounting, Finance and Insurance",
+                    "study": ["Accounting", "Finance", "Human Resourcees"]
+                },
+                {
+                    "subDepartment": "Digital Arts, Media and Design",
+                    "study": ["Digital Design and Development", "Front-End Web Developer", "Full-Stack Web Development"]
+                }
+            ],
+            "computingIT": [
+                {
+                    "subDepartment": "Computer Application Training",
+                    "study": ["App;ied Cpmputer Information Systems (ACIS)",
+                              "Graphic Design",
+                              "Use Interface (UI) and User Experience (UX) Design"]
+                },
+                {
+                    "subDepartment": "Software Development",
+                    "study": ["Applied Data Analytics", "Applied Software Development", "Applied Web Development"]
+                }
+            ]
+        }
+    ]
+}
